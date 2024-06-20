@@ -5,3 +5,5 @@
 Para instalar el programa
 
 ```npm install react```
+
+Sistema de Registro
